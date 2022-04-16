@@ -16,7 +16,9 @@ PC-98××弹幕射击游戏
 我估计其他类 Unix 系统也是如此  
 正好群友在问「为什么我的 Anex86 黑屏」  
 然后就做出了这个整合包
+
 ---
+
 路径下有以下文件：
 > `dosbox-x.exe`(DOSBox-X Windows 主程序)  
 > `dosbox-x.conf`(DOSBox-X 配置文件)  
