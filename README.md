@@ -28,6 +28,7 @@ PC-98××弹幕射击游戏
 
 如果你是Windows系统：
 > 请执行`run.bat`(多半是双击`run.bat`) 来运行 DOSBox-X (这样可以保证载入了配置文件)
+
 如果你是类 Unix 系统：
 > 请安装`flatpak`的`com.dosbox_x.DOSBox-X`软件包  
 > 执行`run.sh`来运行 DOSBox-X (这样可以保证载入了配置文件)
